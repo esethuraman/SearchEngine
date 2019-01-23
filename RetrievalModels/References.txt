@@ -1,0 +1,6 @@
+Refer page no: 217 Book by Bruce Croft et.al
+https://nlp.stanford.edu/IR-book/html/htmledition/pseudo-relevance-feedback-1.html
+https://nlp.stanford.edu/IR-book/html/htmledition/relevance-feedback-and-pseudo-relevance-feedback-1.html
+http://people.cs.georgetown.edu/~nazli/classes/ir-Slides/QueryExpansion-RF-13.pdf
+https://www.stanford.edu/class/cs276/handouts/lecture9-queryexpansion.ppt
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

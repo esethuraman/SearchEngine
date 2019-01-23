@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Automatic_summarization#Unsupervised_keyphrase_extraction:_TextRank
+https://support.google.com/webmasters/answer/35624?hl=en
+https://stackoverflow.com/questions/8384737/extract-file-name-from-path-no-matter-what-the-os-path-format
+Include Info about what is our text window and how do we identify words as significant. Cant just determine word as relevant from
+docs alone. There is quer dependence.y
